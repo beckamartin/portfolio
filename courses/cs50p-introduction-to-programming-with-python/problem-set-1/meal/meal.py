@@ -1,0 +1,24 @@
+# Meal Time
+
+def main():
+    x = input("What time is it? ")
+
+    x = convert(x)
+
+    if x >= 7 and x <= 8:
+        print("breakfast time")
+
+    elif x >= 12 and x <= 13:
+        print("lunch time")
+
+    elif x >= 18 and x <= 19:
+        print("dinner time")
+
+def convert(time):
+    hours, minutes = time.split(":")
+    hours = int(hours)
+    minutes = int(minutes)
+    return round((hours * 60 + minutes) / 60, 2)
+
+if __name__ == "__main__":
+    main()
