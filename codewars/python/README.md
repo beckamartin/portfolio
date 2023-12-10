@@ -3,6 +3,7 @@
 ### 4 Kyu
 | Kata | Solution |
 | - | - |
+| [Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f) | [Solution](./4kyu/range-extraction) |
 | [Human readable duration format](https://www.codewars.com/kata/52742f58faf5485cae000b9a) | [Solution](./4-kyu/human-readable-duration-format/) |
 | [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) | [Solution](./4-kyu/snail/) |
 | [Roman Numerals Helper](https://www.codewars.com/kata/51b66044bce5799a7f000003) | [Solution](./4-kyu/roman-numerals-helper/) |
